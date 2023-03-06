@@ -1,0 +1,35 @@
+GID_0;COUNTRY;GID_1;NAME_1;VARNAME_1;NL_NAME_1;TYPE_1;ENGTYPE_1;CC_1;HASC_1;ISO_1;CPU
+AFG;Afghanistan;AFG.1_1;Badakhshan;Badahšan;NA;Velayat;Province;NA;AF.BD;NA
+AFG;Afghanistan;AFG.2_1;Badghis;Badghes|Badghisat|Badgis;NA;Velayat;Province;NA;AF.BG;AF-BDG
+AFG;Afghanistan;AFG.3_1;Baghlan;Baglan|Bughlan;NA;Velayat;Province;NA;AF.BL;AF-BGL
+AFG;Afghanistan;AFG.4_1;Balkh;Balh|Mazar-i-Sharif|Mazar;NA;Velayat;Province;NA;AF.BK;AF-BAL
+AFG;Afghanistan;AFG.5_1;Bamyan;NA;NA;Velayat;Province;NA;AF.BM;AF-BAM
+AFG;Afghanistan;AFG.6_1;Daykundi;NA;NA;Velayat;Province;NA;AF.DK;AF-DAY
+AFG;Afghanistan;AFG.7_1;Farah;NA;NA;Velayat;Province;NA;AF.FH;AF-FRA
+AFG;Afghanistan;AFG.8_1;Faryab;Fariab|Maimana|Meymaneh;NA;Velayat;Province;NA;AF.FB;AF-FYB
+AFG;Afghanistan;AFG.9_1;Ghazni;Gazni;NA;Velayat;Province;NA;AF.GZ;AF-GHA
+AFG;Afghanistan;AFG.10_1;Ghor;Gawr|Ghore|Ghour|Ghur;NA;Velayat;Province;NA;AF.GR;AF-GHO
+AFG;Afghanistan;AFG.11_1;Hilmand;Girishk|Hilmend;NA;Velayat;Province;NA;AF.HM;NA
+AFG;Afghanistan;AFG.12_1;Hirat;NA;NA;Velayat;Province;NA;AF.HR;NA
+AFG;Afghanistan;AFG.13_1;Jawzjan;Jaozjan|Jozjan|Juzjan|Jouzjan|Sh;NA;Velayat;Province;NA;AF.JW;NA
+AFG;Afghanistan;AFG.14_1;Kabul;Cabul|Kabol|Kaboul;NA;Velayat;Province;NA;AF.KB;AF-KAB
+AFG;Afghanistan;AFG.15_1;Kandahar;Qandahar;NA;Velayat;Province;NA;AF.KD;AF-KAN
+AFG;Afghanistan;AFG.16_1;Kapisa;Kapesa;NA;Velayat;Province;NA;AF.KP;NA
+AFG;Afghanistan;AFG.17_1;Khost;NA;NA;Velayat;Province;NA;AF.KT;AF-KHO
+AFG;Afghanistan;AFG.18_1;Kunar;Konarha|Kunarha;NA;Velayat;Province;NA;AF.KR;AF-KNR
+AFG;Afghanistan;AFG.19_1;Kunduz;Kondoz|Qonduz|Qunduz;NA;Velayat;Province;NA;AF.KZ;AF-KDZ
+AFG;Afghanistan;AFG.20_1;Laghman;Lagman;NA;Velayat;Province;NA;AF.LA;AF-LAG
+AFG;Afghanistan;AFG.21_1;Logar;Lawghar|Loghar;NA;Velayat;Province;NA;AF.LW;AF-LOG
+AFG;Afghanistan;AFG.22_1;Nangarhar;Ningrahar|Eastern Province;NA;Velayat;Province;NA;AF.NG;AF-NAN
+AFG;Afghanistan;AFG.23_1;Nimroz;Neemroze|Nimrod|Nimrooz|Nimroze|;NA;Velayat;Province;NA;AF.NM;AF-NIM
+AFG;Afghanistan;AFG.24_1;Nuristan;Nooristan|Nuristão;NA;Velayat;Province;NA;AF.NR;NA
+AFG;Afghanistan;AFG.25_1;Paktika;Paktiya|Paktya|Southern Province;NA;Velayat;Province;NA;AF.PK;NA
+AFG;Afghanistan;AFG.26_1;Paktya;Paktiya|Southern Province;NA;Velayat;Province;NA;AF.PT;NA
+AFG;Afghanistan;AFG.27_1;Panjshir;NA;NA;Velayat;Province;NA;AF.PJ;NA
+AFG;Afghanistan;AFG.28_1;Parwan;Charikar;NA;Velayat;Province;NA;AF.PV;AF-PAR
+AFG;Afghanistan;AFG.29_1;Samangan;NA;NA;Velayat;Province;NA;AF.SM;AF-SAM
+AFG;Afghanistan;AFG.30_1;Sari Pul;Sar-e Pul|Saripol;NA;Velayat;Province;NA;AF.SP;NA
+AFG;Afghanistan;AFG.31_1;Takhar;Takar;NA;Velayat;Province;NA;AF.TK;AF-TAK
+AFG;Afghanistan;AFG.32_1;Uruzgan;Urozgan;NA;Velayat;Province;NA;AF.OZ;AF-URU
+AFG;Afghanistan;AFG.33_1;Wardak;Verdak|Wardag|Maiden;NA;Velayat;Province;NA;AF.VR;NA
+AFG;Afghanistan;AFG.34_1;Zabul;Zubul|Zaboul;NA;Velayat;Province;NA;AF.ZB;NA
