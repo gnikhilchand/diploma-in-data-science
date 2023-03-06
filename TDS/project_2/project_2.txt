@@ -1,0 +1,10 @@
+Q5,20282
+Q8,47
+Q7,168668
+Q6,O Alquimista
+Q2,465
+Q1,4
+Q3,48342
+Q4,To Kill a Mockingbird
+Q11,3285
+Q14,418
